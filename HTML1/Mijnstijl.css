@@ -1,0 +1,52 @@
+
+p {
+	/*
+	alle paragraven beginnen met een hoofdletter
+	*/
+	text-transform: capitalize;
+	
+	/*
+	font stijl en grootte en breedte
+	*/
+	font-family: Verdana, sans-serif;
+	font-weight: lighter;
+	font-size: 12pt;
+	font-style: italic;
+}	
+
+/*
+	CSS voor de HR
+	*/
+hr {
+	/*
+	de hr heeft nu een border met de rood als kleur en rood als achtergrond
+	*/
+	border-color: #FF0000;
+	border-width = 60%;
+	height: 5px;
+	background-color: #FF0000;
+}
+
+h1 {
+	/*
+	alle h1 zijn nu blauw met georgia als font
+	*/
+	border: 1px;
+	border-color: blue;
+	font-family: Georgia, serif;
+}
+
+ul {
+	/*
+	met dit word de tekst in ul op de aangegeven plekken gespaced
+	*/
+	letter-spacing: 5px;
+	line-height: 30pt;
+}
+
+body {
+	/*
+	Achtergrond van de website
+	*/
+	background-image: url("Afbeeldingen/igsbackground1.jpg");
+}

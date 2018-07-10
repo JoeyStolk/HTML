@@ -1,0 +1,91 @@
+
+
+body{
+    background-color: black;
+	background-repeat: no-repeat;
+	background-size: 1000px 1000px;
+	background-position: center;
+}
+
+h6{
+	text-align: center;
+	font-family: verdana;
+	font-size: 30px;
+	color: black;
+	text-shadow: 2px 2px 8px #FF0000;
+}
+
+	a:hover{
+	color: black;
+	text-decoration: none;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	text-shadow: 1px 3px 8px #FF0000;
+}
+body{
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: 1000px 1000px;
+}
+
+p{
+	text-align: center;
+    font-family: verdana;
+	font-size: 25px;
+	color: black;
+}
+
+h1{
+	text-align: center;
+	font-family: verdana;
+	font-size: 25px;
+	color: black;
+}
+
+
+h6{
+	text-align: center;
+	font-family: verdana;
+	font-size: 30px;
+	color: black;
+	text-shadow: 2px 2px 8px #FF0000;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	text-shadow: 1px 3px 8px #FF0000;
+}
+
+a:hover{
+	color: black;
+	text-decoration: none;
+}
+
+
+
+button {
+	background-color: black;
+	color: black;
+	text-shadow: 1px 3px 8px #FF0000;
+	font-size:25px
+}
+
+ol{
+	text-align: center;
+	font-family: verdana;
+	`font-size: 30px;
+	color: black;
+	text-shadow: 2px 2px 8px #FF0000;
+}
+	
+h5{
+	text-align: center;
+	font-family: verdana;
+	font-size: 20px;
+	color: black;
+	text-shadow: 2px 2px 8px #FF0000;
+}
